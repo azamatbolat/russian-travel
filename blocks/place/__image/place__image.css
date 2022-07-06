@@ -1,0 +1,26 @@
+.place__image {
+  max-width: 340px;
+    width: 100%;
+    height: auto;
+  }
+  
+  @media (min-width: 340px) {
+    .place__image {
+      margin: 0 16px;
+      width: calc(100% - 32px);
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .place__image {
+      width: auto;
+      margin: 0;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .place__image {
+      max-width: 440px;
+    }
+  }
+  

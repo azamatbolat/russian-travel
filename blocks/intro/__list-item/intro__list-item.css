@@ -1,0 +1,12 @@
+.intro__list-item {
+    color: #fff;
+    font-family: 'Inter';
+    font-size: 12px;
+    line-height: 1.5;
+    font-weight: 400;
+  }
+  
+  .intro__list-item > .intro__accent-text {
+    font-weight: 700;
+  }
+  

@@ -1,0 +1,28 @@
+.places {
+  display: grid;
+  max-width: 984px;
+  row-gap: 50px;
+  padding-bottom: 66px;
+  }
+  
+  @media (min-width: 768px) {
+    .places {
+      margin: 0 24px;
+      padding-bottom: 90px;
+      row-gap: 72px;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .places {
+      margin: 0 48px;
+      max-width: 984px;
+    }
+  }
+  
+  @media (min-width: 1120px) {
+    .places {
+      margin: 0 auto;
+    }
+  }
+  
