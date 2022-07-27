@@ -7,9 +7,5 @@
     margin: 0 0 34px;
   }
   
-  @media (min-width: 768px) {
-    .intro__text {
-      max-width: 690px;
-    }
-  }
+  
   
