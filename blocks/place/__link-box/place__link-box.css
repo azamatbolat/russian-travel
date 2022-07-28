@@ -1,13 +1,12 @@
 .place__link-box {
   place-content: end start;
   display: grid;
-    margin: 0 16px;
-    row-gap: 12px;
+  margin: 0 16px;
+  row-gap: 12px;
+}
+
+@media (min-width: 768px) {
+  .place__link-box {
+    margin: 0;
   }
-  
-  @media (min-width: 768px) {
-    .place__link-box {
-      margin: 0;
-    }
-  }
-  
+}

@@ -1,16 +1,11 @@
 .lead {
-    padding-bottom: 64px;
+  padding-bottom: 64px;
+}
+
+
+
+@media (min-width: 768px) {
+  .lead {
+    padding-bottom: 92px;
   }
-  
-  @media (min-width: 320px) {
-    .lead {
-      padding-bottom: 64px;
-    }
-  }
-  
-  @media (min-width: 768px) {
-    .lead {
-      padding-bottom: 92px;
-    }
-  }
-  
+}

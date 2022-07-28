@@ -1,7 +1,5 @@
 .photo-grid__item {
-    display: block;
-    max-width: 352px;
-    width: 100%;
-    height: auto;
-  }
-  
+  display: block;
+  max-width: 352px;
+  width: 100%;
+}

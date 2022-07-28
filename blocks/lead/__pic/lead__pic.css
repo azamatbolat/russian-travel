@@ -1,20 +1,19 @@
 .lead__pic {
-    width: 100%;
-    height: auto;
-    margin-right: auto;
-    display: block;
-    margin-bottom: 8px;
-    margin-left: auto;
+  width: 100%;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 8px;
+  margin-left: auto;
+}
+
+@media (min-width: 768px) {
+  .lead__pic {
+    max-width: 928px;
   }
-  
-  @media (min-width: 768px) {
-    .lead__pic {
-      max-width: 928px;
-    }
+}
+
+@media (min-width: 1280px) {
+  .lead__pic {
+    max-width: 984px;
   }
-  @media (min-width: 1280px) {
-    .lead__pic {
-      max-width: 984px;
-    }
-  }
-  
+}
