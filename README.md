@@ -6,6 +6,6 @@
 
 Использованные технологии grid, text decoration, font family.
 
-* [Ссылка на мой github pages](https://azamatbolat.github.io/russian-travel/)
+* [Link to github pages](https://azamatbolat.github.io/russian-travel/)
 
 
